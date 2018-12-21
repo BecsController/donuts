@@ -56,3 +56,11 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "webpacker", "~> 3.5"
 
 gem "react-rails", "~> 2.4"
+
+gem "dotenv-rails", "~> 2.5"
+
+gem "faraday", "~> 0.15.4"
+
+gem "pry", "~> 0.12.2"
+
+gem "httparty"
